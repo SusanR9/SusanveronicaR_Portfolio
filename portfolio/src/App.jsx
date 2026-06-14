@@ -426,7 +426,7 @@ const projectsData = [
       'Deployed on Netlify (frontend) & Render/Railway (backend) with CI/CD',
     ],
     tech: ['React', 'Django', 'MySQL', 'Razorpay', 'JWT', 'REST APIs', 'Netlify', 'Render'],
-    liveUrl: 'https://competitional.netlify.app',
+    liveUrl: 'https://competitionai.netlify.app',
     githubUrl: 'https://github.com/SusanR9/AIproject',
     icon: '🏆',
   },
